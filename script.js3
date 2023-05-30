@@ -1,0 +1,13 @@
+// Example
+var firstNameLength = 0;
+var firstName = "Roberto";
+
+firstNameLength = firstName.length;
+
+//Setup
+var lastNameLength = 0;
+var lastName = "Rico";
+
+// Only change code below this line
+lastNameLength = firstName.length;
+console.log(lastNameLength)
